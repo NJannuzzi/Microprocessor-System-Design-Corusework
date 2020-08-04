@@ -1,0 +1,4 @@
+This directory is organized as follows:
+
+oscilloscope: All PSoC files for the oscilloscope project
+logicAnalyzer: All PSoC files for the logicAnalyzer project
